@@ -1,5 +1,3 @@
-Here's the updated README with the new information included:
-
 # Olympic Data Project
 
 ## Overview
