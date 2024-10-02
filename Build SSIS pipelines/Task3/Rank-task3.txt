@@ -1,0 +1,755 @@
+3x3 Basketball,Agnis Cavars,1,1
+3x3 Basketball,Aleksandar Ratkov,1,2
+3x3 Basketball,Aleksandr Zuyev,1,3
+3x3 Basketball,Allisha Gray,1,4
+3x3 Basketball,Anastasiya Logunova,1,5
+3x3 Basketball,Dejan Majstorovic,1,6
+3x3 Basketball,Dušan Domovic Bulut,1,7
+3x3 Basketball,Edgars Kruminš,1,8
+3x3 Basketball,Ilya Karpenkov,1,9
+3x3 Basketball,Jackie Young,1,10
+Aeronautics,Hermann Schreiber,1,1
+Alpine Skiing,Kjetil André Aamodt,8,1
+Alpine Skiing,Janica Kostelic,6,2
+Alpine Skiing,Anja Pärson,6,3
+Alpine Skiing,Bode Miller,6,4
+Alpine Skiing,Alberto Tomba,5,5
+Alpine Skiing,Kjetil Jansrud,5,6
+Alpine Skiing,Katja Seizinger,5,7
+Alpine Skiing,Lasse Kjus,5,8
+Alpine Skiing,Wendy Holdener,5,9
+Alpine Skiing,Vreni Schneider,5,10
+Alpinism,Antarge Sherpa,4,1
+Alpinism,Arthur Wakefield,4,2
+Alpinism,Bill Strutt,4,3
+Alpinism,Charles Granville Bruce,4,4
+Alpinism,Colin Crawford,4,5
+Alpinism,Edward Norton,4,6
+Alpinism,Howard Somervell,4,7
+Alpinism,John Morris,4,8
+Alpinism,John Noel,4,9
+Alpinism,Lhakpa Sherpa,4,10
+Archery,Hubert Van Innis,10,1
+Archery,Kim Su-Nyeong,6,2
+Archery,Julien Brulé,5,3
+Archery,Eugène Grisot,4,4
+Archery,Gi Bo-Bae,4,5
+Archery,Léonce Quentin,4,6
+Archery,Louis Van De Perck,4,7
+Archery,Park Seong-Hyeon,4,8
+Archery,Michele Frangilli,3,9
+Archery,Oh Gyo-Mun,3,10
+Art Competitions,Alex Walter Diggelmann,3,1
+Art Competitions,Josef Petersen,3,2
+Art Competitions,Jacques Lambert,2,3
+Art Competitions,Jean Jacoby,2,4
+Art Competitions,Edwin Grienauer,2,5
+Art Competitions,Józef Klukowski,2,6
+Art Competitions,Jozuë Dupon,1,7
+Art Competitions,Julien Médécin,1,8
+Art Competitions,Kalervo Tuukkanen,1,9
+Art Competitions,Kazimierz Wierzynski,1,10
+Artistic Gymnastics,Larisa Latynina,18,1
+Artistic Gymnastics,Nikolay Andrianov,15,2
+Artistic Gymnastics,Takashi Ono,13,3
+Artistic Gymnastics,Boris Shakhlin,13,4
+Artistic Gymnastics,Aleksey Nemov,12,5
+Artistic Gymnastics,Sawao Kato,12,6
+Artistic Gymnastics,Vera Cáslavská,11,7
+Artistic Gymnastics,Viktor Chukarin,11,8
+Artistic Gymnastics,Vitali Shcherba,10,9
+Artistic Gymnastics,Polina Astakhova,10,10
+Artistic Swimming,Huang Xuechen,7,1
+Artistic Swimming,Svetlana Romashina,7,2
+Artistic Swimming,Sun Wenyan,5,3
+Artistic Swimming,Miya Tachibana,5,4
+Artistic Swimming,Nataliya Ishchenko,5,5
+Artistic Swimming,Anastasiya Davydova,5,6
+Artistic Swimming,Miho Takeda,5,7
+Artistic Swimming,Anastasiya Yermakova,4,8
+Artistic Swimming,Andrea Fuentes,4,9
+Artistic Swimming,Aleksandra Patskevich,3,10
+Athletics,Paavo Nurmi,12,1
+Athletics,Allyson Felix,11,2
+Athletics,Carl Lewis,10,3
+Athletics,Ray Ewry,8,4
+Athletics,Usain Bolt,8,5
+Athletics,Ville Ritola,8,6
+Athletics,Shelly-Ann Fraser-Pryce,7,7
+Athletics,Merlene Ottey,7,8
+Athletics,Gwen Torrence,7,9
+Athletics,Heike Drechsler,7,10
+Badminton,Gao Ling,4,1
+Badminton,Fu Haifeng,3,2
+Badminton,Gil Yeong-Ah,3,3
+Badminton,Kim Dong-Mun,3,4
+Badminton,Lee Chong Wei,3,5
+Badminton,Zhang Nan,3,6
+Badminton,Zhao Yunlei,3,7
+Badminton,Chen Long,3,8
+Badminton,Bang Su-Hyeon,2,9
+Badminton,Cai Yun,2,10
+Baseball,Pedro Luis Lazo,4,1
+Baseball,Norge Luis Vera,3,2
+Baseball,Omar Ajete,3,3
+Baseball,Omar Linares,3,4
+Baseball,Orestes Kindelán,3,5
+Baseball,Luis Ulacia,3,6
+Baseball,Eduardo Paret,3,7
+Baseball,Antonio Pacheco,3,8
+Baseball,Antonio Scull,3,9
+Baseball,Ariel Pestano,3,10
+Basketball,Diana Taurasi,5,1
+Basketball,Sue Bird,5,2
+Basketball,Teresa Edwards,5,3
+Basketball,Tamika Catchings,4,4
+Basketball,Sylvia Fowles,4,5
+Basketball,Kristi Harrower,4,6
+Basketball,Lauren Jackson,4,7
+Basketball,Lisa Leslie,4,8
+Basketball,Sergey Belov,4,9
+Basketball,Carmelo Anthony,4,10
+Basque pelota,Francisco Villota,1,1
+Basque pelota,José de Amézola,1,2
+Beach Volleyball, Ricardo,3,1
+Beach Volleyball, Emanuel,3,2
+Beach Volleyball,April Ross,3,3
+Beach Volleyball,Kerri Walsh Jennings,3,4
+Beach Volleyball,Kerri-Ann Pottharst,2,5
+Beach Volleyball,Sandra Pires,2,6
+Beach Volleyball,Natalie Cook,2,7
+Beach Volleyball,Misty May-Treanor,2,8
+Beach Volleyball, Shelda,2,9
+Beach Volleyball,Adriana Behar,2,10
+Biathlon,Ole Einar Bjørndalen,13,1
+Biathlon,Uschi Disl,9,2
+Biathlon,Sven Fischer,8,3
+Biathlon,Tiril Eckhoff,8,4
+Biathlon,Ricco Groß,8,5
+Biathlon,Johannes Thingnes Bø,8,6
+Biathlon,Emil Hegle Svendsen,8,7
+Biathlon,Kati Wilhelm,7,8
+Biathlon,Martin Fourcade,7,9
+Biathlon,Sergey Chepikov,6,10
+Bobsleigh,Bogdan Musiol,7,1
+Bobsleigh,Eugenio Monti,6,2
+Bobsleigh,Kevin Kuske,6,3
+Bobsleigh,Wolfgang Hoppe,6,4
+Bobsleigh,Kaillie Humphries,5,5
+Bobsleigh,Fritz Feierabend,5,6
+Bobsleigh,André Lange,5,7
+Bobsleigh,Christoph Langen,4,8
+Bobsleigh,Beat Hefti,4,9
+Bobsleigh,Bernhard Germeshausen,4,10
+Boxing,Boris Lagutin,3,1
+Boxing,Arnold Vanderlijde,3,2
+Boxing,Félix Savón,3,3
+Boxing,László Papp,3,4
+Boxing,Lázaro Álvarez,3,5
+Boxing,Oleg Saitov,3,6
+Boxing,Roniel Iglesias,3,7
+Boxing,Teófilo Stevenson,3,8
+Boxing,Roberto Cammarelle,3,9
+Boxing,Zbigniew Pietrzykowski,3,10
+Canoe Marathon,Gert Fredriksson,3,1
+Canoe Marathon,Georges Dransart,2,2
+Canoe Marathon,Kurt Wires,2,3
+Canoe Marathon,Gunnar Åkerlund,2,4
+Canoe Marathon,Hans Wetterström,2,5
+Canoe Marathon,Frank Havens,2,6
+Canoe Marathon,Michel Scheuer,2,7
+Canoe Marathon,Nils Björklöf,1,8
+Canoe Marathon,Norm Lane,1,9
+Canoe Marathon,Paul Wevers,1,10
+Canoe Slalom,Michal Martikán,5,1
+Canoe Slalom,Jess Fox,4,2
+Canoe Slalom,Pavol Hochschorner,4,3
+Canoe Slalom,Peter Hochschorner,4,4
+Canoe Slalom,Tony Estanguet,3,5
+Canoe Slalom,Maialen Chourraut,3,6
+Canoe Slalom,David Florence,3,7
+Canoe Slalom,Dana Chladek,2,8
+Canoe Slalom,Elena Kaliská,2,9
+Canoe Slalom,Jaroslav Volf,2,10
+Canoe Sprint,Danuta Kozák,8,1
+Canoe Sprint,Katalin Kovács,8,2
+Canoe Sprint,Ivan Patzaichin,7,3
+Canoe Sprint,Agneta Andersson,7,4
+Canoe Sprint,Birgit Fischer,7,5
+Canoe Sprint,Knut Holmann,6,6
+Canoe Sprint,Lisa Carrington,6,7
+Canoe Sprint,Rita Kobán,6,8
+Canoe Sprint,Rüdiger Helm,6,9
+Canoe Sprint,Ronny Rauhe,5,10
+Cricket,Alfred Bowerman,1,1
+Cricket,Alfred Powlesland,1,2
+Cricket,Alfred Schneidau,1,3
+Cricket,Andrew Mackie,1,4
+Cricket,Arthur Birkett,1,5
+Cricket,Arthur MacEvoy,1,6
+Cricket,Charles Beachcroft,1,7
+Cricket,Clement Elwell,1,8
+Cricket,Douglas Robinson,1,9
+Cricket,Edgar Daniel,1,10
+Croquet,Chrétien Waydelich,2,1
+Croquet,Gaston Aumoitte,2,2
+Croquet,Georges Johin,2,3
+Croquet,Jacques Sautereau,1,4
+Croquet,Maurice Vignerot,1,5
+Cross Country Skiing,Marit Bjørgen,15,1
+Cross Country Skiing,Bjørn Dæhlie,12,2
+Cross Country Skiing,Raisa Smetanina,10,3
+Cross Country Skiing,Stefania Belmondo,10,4
+Cross Country Skiing,Sixten Jernberg,9,5
+Cross Country Skiing,Lyubov Yegorova,9,6
+Cross Country Skiing,Charlotte Kalla,9,7
+Cross Country Skiing,Aleksandr Bolshunov,9,8
+Cross Country Skiing,Galina Kulakova,8,9
+Cross Country Skiing,Eero Mäntyranta,7,10
+Curling,Oskar Eriksson,4,1
+Curling,Niklas Edin,3,2
+Curling,Agnes Knochenhauer,3,3
+Curling,Anette Norberg,2,4
+Curling,Anna Hasselborg,2,5
+Curling,Brad Gushue,2,6
+Curling,Eva Lund,2,7
+Curling,Eve Muirhead,2,8
+Curling,Cathrine Lindahl,2,9
+Curling,Chinami Yoshida,2,10
+Cycling BMX Freestyle,Charlotte Worthington,1,1
+Cycling BMX Freestyle,Daniel Dhers,1,2
+Cycling BMX Freestyle,Declan Brooks,1,3
+Cycling BMX Freestyle,Hannah Roberts,1,4
+Cycling BMX Freestyle,Logan Martin,1,5
+Cycling BMX Freestyle,Nikita Ducarroz,1,6
+Cycling BMX Racing,Mariana Pajón,3,1
+Cycling BMX Racing,Maris Štrombergs,2,2
+Cycling BMX Racing,Carlos Ramírez,2,3
+Cycling BMX Racing,Connor Fields,1,4
+Cycling BMX Racing,Donny Robinson,1,5
+Cycling BMX Racing,Jelle van Gorkom,1,6
+Cycling BMX Racing,Jill Kintner,1,7
+Cycling BMX Racing,Kye Whyte,1,8
+Cycling BMX Racing,Laëtitia Le Corguillé,1,9
+Cycling BMX Racing,Laura Smulders,1,10
+Cycling Mountain Bike,Sabine Spitz,3,1
+Cycling Mountain Bike,Nino Schurter,3,2
+Cycling Mountain Bike,Paola Pezzo,2,3
+Cycling Mountain Bike,Miguel Martinez,2,4
+Cycling Mountain Bike,Julien Absalon,2,5
+Cycling Mountain Bike,Bart Brentjens,2,6
+Cycling Mountain Bike,Jaroslav Kulhavý,2,7
+Cycling Mountain Bike,Maja Wloszczowska,2,8
+Cycling Mountain Bike,Marco Aurelio Fontana,1,9
+Cycling Mountain Bike,Marga Fullana,1,10
+Cycling Road,Jeannie Longo-Ciprelli,4,1
+Cycling Road,Gösta Pettersson,3,2
+Cycling Road,Henry Hansen,3,3
+Cycling Road,Fabian Cancellara,3,4
+Cycling Road,Kristin Armstrong,3,5
+Cycling Road,Leontien Zijlaard-van Moorsel,3,6
+Cycling Road,Olga Zabelinskaya,3,7
+Cycling Road,Ragnar Malm,3,8
+Cycling Road,Anna van der Breggen,3,9
+Cycling Road,Annemiek van Vleuten,2,10
+Cycling Track,Jason Kenny,9,1
+Cycling Track,Bradley Wiggins,7,2
+Cycling Track,Chris Hoy,7,3
+Cycling Track,Burton Downing,6,4
+Cycling Track,Anna Meares,6,5
+Cycling Track,Brad McGee,5,6
+Cycling Track,Daniel Morelon,5,7
+Cycling Track,Jens Fiedler,5,8
+Cycling Track,Lasse Norman Hansen,5,9
+Cycling Track,Marcus Hurley,5,10
+Diving,Dmitry Sautin,8,1
+Diving,Wu Minxia,7,2
+Diving,Guo Jingjing,6,3
+Diving,Greg Louganis,5,4
+Diving,Fu Mingxia,5,5
+Diving,Klaus Dibiasi,5,6
+Diving,Qin Kai,5,7
+Diving,Xiong Ni,5,8
+Diving,Yuliya Pakhalina,5,9
+Diving,Cao Yuan,5,10
+Equestrian Dressage,Isabell Werth,12,1
+Equestrian Dressage,Anky van Grunsven,9,2
+Equestrian Dressage,Reiner Klimke,8,3
+Equestrian Dressage,Josef Neckermann,6,4
+Equestrian Dressage,Charlotte Dujardin,6,5
+Equestrian Dressage,Gustav Fischer,5,6
+Equestrian Dressage,André Jousseaumé,5,7
+Equestrian Dressage,Christine Stückelberger,5,8
+Equestrian Dressage,Liselott Linsenhoff,5,9
+Equestrian Dressage,Henri Chammartin,5,10
+Equestrian Driving,Georges Nagelmackers,1,1
+Equestrian Driving,Jean, Baron de Neuflize,1,2
+Equestrian Driving,Léon Thome,1,3
+Equestrian Eventing,Andrew Hoy,6,1
+Equestrian Eventing,J. Michael Plumb,6,2
+Equestrian Eventing,Mark Todd,6,3
+Equestrian Eventing,Charles Pahud de Mortanges,5,4
+Equestrian Eventing,Blyth Tait,4,5
+Equestrian Eventing,Bruce Davidson,4,6
+Equestrian Eventing,Earl Thomson,4,7
+Equestrian Eventing,Michael Jung,4,8
+Equestrian Eventing,Ian Stark,4,9
+Equestrian Eventing,Ingrid Klimke,3,10
+Equestrian Jumping,Hans Günter Winkler,7,1
+Equestrian Jumping,Ludger Beerbaum,6,2
+Equestrian Jumping,Piero D'Inzeo,6,3
+Equestrian Jumping,Raimondo D'Inzeo,6,4
+Equestrian Jumping,Pierre Jonquères d'Oriola,4,5
+Equestrian Jumping,Peder Fredricson,4,6
+Equestrian Jumping,McLain Ward,4,7
+Equestrian Jumping,Alwin Schockemöhle,4,8
+Equestrian Jumping,Bill Steinkraus,4,9
+Equestrian Jumping,Beezie Madden,4,10
+Equestrian Vaulting, Field,2,1
+Equestrian Vaulting,Daniël Bouckaert,2,2
+Equestrian Vaulting,Louis Finet,2,3
+Equestrian Vaulting,Maurice Van Ranst,1,4
+Equestrian Vaulting,Oskar Nilsson,1,5
+Equestrian Vaulting, Salins,1,6
+Equestrian Vaulting,Anders Mårtensson,1,7
+Equestrian Vaulting,Carl Green,1,8
+Equestrian Vaulting, Cauchy,1,9
+Fencing,Edoardo Mangiarotti,13,1
+Fencing,Aladár Gerevich,10,2
+Fencing,Giulio Gaudini,9,3
+Fencing,Valentina Vezzali,9,4
+Fencing,Roger Ducret,8,5
+Fencing,Philippe Cattiau,8,6
+Fencing,Giovanna Trillini,8,7
+Fencing,Aldo Montano,7,8
+Fencing,Pál Kovács,7,9
+Fencing,Gustavo Marzi,7,10
+Figure Skating,Scott Moir,5,1
+Figure Skating,Tessa Virtue,5,2
+Figure Skating,Yevgeny Plyushchenko,4,3
+Figure Skating,Gillis Grafström,4,4
+Figure Skating,Nikita Katsalapov,4,5
+Figure Skating,Meryl Davis,3,6
+Figure Skating,Marina Klimova,3,7
+Figure Skating,Meagan Duhamel,3,8
+Figure Skating,Madison Hubbell,3,9
+Figure Skating,Eric Radford,3,10
+Football,Antal Dunai,3,1
+Football,Anja Mittag,3,2
+Football,Ariane Hingst,3,3
+Football,Aly Wagner,3,4
+Football,Briana Scurry,3,5
+Football,Birgit Prinz,3,6
+Football,Brandi Chastain,3,7
+Football,Carli Lloyd,3,8
+Football,Christie Rampone,3,9
+Football,Christine Sinclair,3,10
+Freestyle Skiing,David Wise,3,1
+Freestyle Skiing,Eileen Gu,3,2
+Freestyle Skiing,Jia Zongyang,3,3
+Freestyle Skiing,Mathilde Gremaud,3,4
+Freestyle Skiing,Mikaël Kingsbury,3,5
+Freestyle Skiing,Kari Traa,3,6
+Freestyle Skiing,Nick Goepper,3,7
+Freestyle Skiing,Xu Mengtao,3,8
+Freestyle Skiing,Sergey Ridzik,2,9
+Freestyle Skiing,Shannon Bahrke,2,10
+Golf,Burt McKinnie,2,1
+Golf,Frank Newton,2,2
+Golf,Lydia Ko,2,3
+Golf,Chandler Egan,2,4
+Golf,Charles Sands,1,5
+Golf,Clement Smoot,1,6
+Golf,David Robertson,1,7
+Golf,Doug Cadwallader,1,8
+Golf,Feng Shanshan,1,9
+Golf,Margaret Abbott,1,10
+Handball,Andrey Lavrov,4,1
+Handball,Luc Abalo,4,2
+Handball,Marit Malm Frafjord,4,3
+Handball,Michaël Guigou,4,4
+Handball,Nikola Karabatic,4,5
+Handball,Oh Seong-Ok,4,6
+Handball,Oh Yeong-Ran,3,7
+Handball,Nicolae Munteanu,3,8
+Handball,Ola Lindgren,3,9
+Handball,Pierre Thorsson,3,10
+Hockey, Abdul Rashid,4,1
+Hockey,Balbir Singh,4,2
+Hockey,Eva de Goede,4,3
+Hockey,Leslie Claudius,4,4
+Hockey,Lidewij Welten,4,5
+Hockey,Lucha Aymar,4,6
+Hockey,Teun de Nooijer,4,7
+Hockey,Udham Singh,4,8
+Hockey,Timo Weß,3,9
+Hockey,Tobias Hauke,3,10
+Ice Hockey,Hayley Wickenheiser,5,1
+Ice Hockey,Jayna Hefford,5,2
+Ice Hockey,Jennifer Botterill,4,3
+Ice Hockey,Jere Lehtinen,4,4
+Ice Hockey,Jirí Holík,4,5
+Ice Hockey,Julie Chu,4,6
+Ice Hockey,Hilary Knight,4,7
+Ice Hockey,Igor Kravchuk,4,8
+Ice Hockey,Kimmo Timonen,4,9
+Ice Hockey,Marie-Philip Poulin,4,10
+Jeu De Paume,Eustace Miles,1,1
+Jeu De Paume,Jay Gould,1,2
+Jeu De Paume,Neville Lytton,1,3
+Judo,Teddy Riner,5,1
+Judo,Idalys Ortiz,4,2
+Judo,Angelo Parisi,4,3
+Judo,Driulis González,4,4
+Judo,Edith Bosch,3,5
+Judo,David Douillet,3,6
+Judo,Clarisse Agbegnenou,3,7
+Judo,Amarilis Savón,3,8
+Judo,Kye Sun-Hui,3,9
+Judo,Lasha Shavdatuashvili,3,10
+Karate,Abdel Rahman Al-Masatfa,1,1
+Karate,Ali Sofuoglu,1,2
+Karate,Anzhelika Terliuha,1,3
+Karate,Ariel Torres,1,4
+Karate,Bettina Plank,1,5
+Karate,Damián Quintero,1,6
+Karate,Darkhan Asadilov,1,7
+Karate,Eray Samdan,1,8
+Karate,Feryal Ashraf,1,9
+Karate,Gábor Hárspataki,1,10
+Lacrosse, Almighty Voice,1,1
+Lacrosse, Black Eagle,1,2
+Lacrosse, Black Hawk,1,3
+Lacrosse, Flat Iron,1,4
+Lacrosse, Half Moon,1,5
+Lacrosse, Lightfoot,1,6
+Lacrosse, Man Afraid of the Soap,1,7
+Lacrosse, Night Hawk,1,8
+Lacrosse, Rain in Face,1,9
+Lacrosse, Red Jacket,1,10
+Luge,Natalie Geisenberger,7,1
+Luge,Armin Zöggeler,6,2
+Luge,Tobias Arlt,6,3
+Luge,Tobias Wendl,6,4
+Luge,Georg Hackl,5,5
+Luge,Jan Behrendt,4,6
+Luge,Johannes Ludwig,4,7
+Luge,Klaus-Michael Bonsack,4,8
+Luge,Stefan Krauße,4,9
+Luge,Silke Kraushaar,3,10
+Marathon Swimming,Thomas Lurz,2,1
+Marathon Swimming,Sharon van Rouwendaal,2,2
+Marathon Swimming,Spyros Gianniotis,1,3
+Marathon Swimming,Ana Marcela Cunha,1,4
+Marathon Swimming,Cassie Patten,1,5
+Marathon Swimming,Dave Davies,1,6
+Marathon Swimming,Éva Risztov,1,7
+Marathon Swimming,Ferry Weertman,1,8
+Marathon Swimming,Florian Wellbrock,1,9
+Marathon Swimming,Gregorio Paltrinieri,1,10
+Military Ski Patrol,Adrien Vandelle,1,1
+Military Ski Patrol,Alfons Julen,1,2
+Military Ski Patrol,Alfred Aufdenblatten,1,3
+Military Ski Patrol,Anton Julen,1,4
+Military Ski Patrol,August Eskelinen,1,5
+Military Ski Patrol,Camille Mandrillon,1,6
+Military Ski Patrol,Denis Vaucher,1,7
+Military Ski Patrol,Georges Berthet,1,8
+Military Ski Patrol,Heikki Hirvonen,1,9
+Military Ski Patrol,Maurice Mandrillon,1,10
+Modern Pentathlon,Pavel Lednyov,7,1
+Modern Pentathlon,András Balczó,5,2
+Modern Pentathlon,Carlo Massullo,5,3
+Modern Pentathlon,Igor Novikov,4,4
+Modern Pentathlon,Imre Nagy,3,5
+Modern Pentathlon,János Martinek,3,6
+Modern Pentathlon,Daniele Masala,3,7
+Modern Pentathlon,Bo Lindman,3,8
+Modern Pentathlon,Boris Onishchenko,3,9
+Modern Pentathlon,Eduard Zenovka,3,10
+Motorboating,Bernard Redwood,2,1
+Motorboating,John Field-Richards,2,2
+Motorboating,Thomas Thornycroft,2,3
+Motorboating,Émile Thubron,1,4
+Nordic Combined,Eric Frenzel,7,1
+Nordic Combined,Felix Gottwald,7,2
+Nordic Combined,Jørgen Graabak,6,3
+Nordic Combined,Samppa Lajunen,5,4
+Nordic Combined,Mario Stecher,4,5
+Nordic Combined,Klaus Sulzenbacher,4,6
+Nordic Combined,Magnus Moan,4,7
+Nordic Combined,Johannes Rydzek,4,8
+Nordic Combined,Fred Børre Lundberg,4,9
+Nordic Combined,Fabian Rießle,4,10
+Polo,Frederick Barrett,2,1
+Polo,Jack, Lord Wodehouse,2,2
+Polo,Eustaquio Escandón,2,3
+Polo,Freddie Freake,2,4
+Polo,Manuel, Marqués Escandón,2,5
+Polo,Pablo Escandón,2,6
+Polo,Walter Buckmaster,2,7
+Polo,William Wright,2,8
+Polo,Walter Jones,1,9
+Polo,Walter McCreery,1,10
+Racquets,Evan Noel,2,1
+Racquets,Henry Leaf,2,2
+Racquets,John Jacob Astor,2,3
+Racquets,Vane Pennell,1,4
+Racquets,Henry Brougham,1,5
+Racquets,Cecil Browning,1,6
+Racquets,Edmond Bury,1,7
+Rhythmic Gymnastics,Anastasiya Bliznyuk,3,1
+Rhythmic Gymnastics,Anastasiya Ivankova,2,2
+Rhythmic Gymnastics,Anastasiya Maksimova,2,3
+Rhythmic Gymnastics,Alina Kabayeva,2,4
+Rhythmic Gymnastics,Alina Tumilovich,2,5
+Rhythmic Gymnastics,Elisa Blanchi,2,6
+Rhythmic Gymnastics,Elisa Santoni,2,7
+Rhythmic Gymnastics,Anastasiya Tatareva,2,8
+Rhythmic Gymnastics,Hanna Bezsonova,2,9
+Rhythmic Gymnastics,Kseniya Sankovich,2,10
+Roque,Charles Brown,1,1
+Roque,Charles Jacobus,1,2
+Roque,Smith Streeter,1,3
+Rowing,Elisabeta Lipa,7,1
+Rowing,Doina Ignat,6,2
+Rowing,Steven Redgrave,6,3
+Rowing,Viorica Susanu,5,4
+Rowing,Elena Georgescu,5,5
+Rowing,Eskild Ebbesen,5,6
+Rowing,Jack Beresford,5,7
+Rowing,Katherine Grainger,5,8
+Rowing,Kathrin Boron,5,9
+Rowing,Lesley Thompson-Willie,5,10
+Rugby,Adolphe Bousquet,2,1
+Rugby,Babe Slater,2,2
+Rugby,Dan Carroll,2,3
+Rugby,Jack Patrick,2,4
+Rugby,Charlie Doe,2,5
+Rugby,James Winston,2,6
+Rugby,Rudy Scholz,2,7
+Rugby,John O'Neil,2,8
+Rugby,William Muldoon,2,9
+Rugby,William Rogers,1,10
+Rugby Sevens,Kelly Brazier,2,1
+Rugby Sevens,Gayle Broughton,2,2
+Rugby Sevens,Jerry Tuwai,2,3
+Rugby Sevens,Ruby Tui,2,4
+Rugby Sevens,Portia Woodman,2,5
+Rugby Sevens,Tyla Nathan-Wong,2,6
+Rugby Sevens,Theresa Fitzpatrick,2,7
+Rugby Sevens,Tim Agaba,1,8
+Rugby Sevens,Tim Mikkelson,1,9
+Rugby Sevens,Tom Mitchell,1,10
+Sailing,Torben Grael,5,1
+Sailing,Robert Scheidt,5,2
+Sailing,Ben Ainslie,5,3
+Sailing,Carlos Espínola,4,4
+Sailing,Jochen Schümann,4,5
+Sailing,Paul Elvstrøm,4,6
+Sailing,Tore Holm,4,7
+Sailing,Valentin Mankin,4,8
+Sailing,Alessandra Sensini,4,9
+Sailing,Barbara Kendall,3,10
+Shooting,Carl Osburn,11,1
+Shooting,Alf Swahn,9,2
+Shooting,Otto Olsen,8,3
+Shooting,Lloyd Spooner,7,4
+Shooting,Vilhelm Carlberg,7,5
+Shooting,Willis Lee,7,6
+Shooting,Einar Liberg,7,7
+Shooting,Jin Jong-O,6,8
+Shooting,Al Lane,6,9
+Shooting,Albert Helgerud,6,10
+Short Track Speed Skating,Arianna Fontana,11,1
+Short Track Speed Skating,Apolo Anton Ohno,8,2
+Short Track Speed Skating,Charles Hamelin,6,3
+Short Track Speed Skating,Suzanne Schulting,6,4
+Short Track Speed Skating,Wang Meng,6,5
+Short Track Speed Skating,Wu Dajing,5,6
+Short Track Speed Skating,Park Seung-Hui,5,7
+Short Track Speed Skating,Jeon I-Gyeong,5,8
+Short Track Speed Skating,Lee Ho-Seok,5,9
+Short Track Speed Skating,Li Jiajun,5,10
+Skateboarding,Cory Juneau,1,1
+Skateboarding,Funa Nakayama,1,2
+Skateboarding,Jagger Eaton,1,3
+Skateboarding,Keegan Palmer,1,4
+Skateboarding,Kelvin Hoefler,1,5
+Skateboarding,Kokona Hiraki,1,6
+Skateboarding,Momiji Nishiya,1,7
+Skateboarding,Pedro Barros,1,8
+Skateboarding,Rayssa Leal,1,9
+Skateboarding,Sakura Yosozumi,1,10
+Skeleton,Aleksandr Tretyakov,2,1
+Skeleton,Jack Heaton,2,2
+Skeleton,Gregor Stähli,2,3
+Skeleton,Martins Dukurs,2,4
+Skeleton,Lizzy Yarnold,2,5
+Skeleton,Martin Rettl,1,6
+Skeleton,Matt Antoine,1,7
+Skeleton,Maya Pedersen,1,8
+Skeleton,Mellisa Hollingsworth-Richards,1,9
+Skeleton,Nikita Tregubov,1,10
+Ski Jumping,Matti Nykänen,5,1
+Ski Jumping,Matti Hautamäki,4,2
+Ski Jumping,Martin Höllwarth,4,3
+Ski Jumping,Kamil Stoch,4,4
+Ski Jumping,Gregor Schlierenzauer,4,5
+Ski Jumping,Jens Weißflog,4,6
+Ski Jumping,Adam Malysz,4,7
+Ski Jumping,Andreas Wellinger,4,8
+Ski Jumping,Peter Prevc,4,9
+Ski Jumping,Simon Ammann,4,10
+Snowboarding,Ayumu Hirano,3,1
+Snowboarding,Benjamin Karl,3,2
+Snowboarding,Jamie Anderson,3,3
+Snowboarding,Kelly Clark,3,4
+Snowboarding,Lindsey Jacobellis,3,5
+Snowboarding,Mark McMorris,3,6
+Snowboarding,Max Parrot,3,7
+Snowboarding,Shaun White,3,8
+Snowboarding,Vic Wild,3,9
+Snowboarding,Žan Košir,3,10
+Softball,Melanie Roche,4,1
+Softball,Natalie Ward,4,2
+Softball,Laura Berg,4,3
+Softball,Tanya Harding,4,4
+Softball,Peta Edebone,3,5
+Softball,Yukiko Ueno,3,6
+Softball,Lori Harrigan,3,7
+Softball,Lisa Fernandez,3,8
+Softball,Natalie Titcume,3,9
+Softball,Sandy Allen-Lewis,3,10
+Speed Skating,Ireen Wüst,13,1
+Speed Skating,Sven Kramer,9,2
+Speed Skating,Claudia Pechstein,9,3
+Speed Skating,Miho Takagi,8,4
+Speed Skating,Martina Sáblíková,7,5
+Speed Skating,Ivar Ballangrud,7,6
+Speed Skating,Clas Thunberg,7,7
+Speed Skating,Cindy Klassen,6,8
+Speed Skating,Bonnie Blair,6,9
+Speed Skating,Lee Seung-Hun,6,10
+Sport Climbing,Akiyo Noguchi,1,1
+Sport Climbing,Alberto Ginés,1,2
+Sport Climbing,Jakob Schubert,1,3
+Sport Climbing,Janja Garnbret,1,4
+Sport Climbing,Miho Nonaka,1,5
+Sport Climbing,Nathaniel Coleman,1,6
+Surfing,Amuro Tsuzuki,1,1
+Surfing,Bianca Buitendag,1,2
+Surfing,Carissa Moore,1,3
+Surfing,Ítalo Ferreira,1,4
+Surfing,Kanoa Igarashi,1,5
+Surfing,Owen Wright,1,6
+Swimming,Michael Phelps,28,1
+Swimming,Natalie Coughlin,12,2
+Swimming,Ryan Lochte,12,3
+Swimming,Dara Torres,12,4
+Swimming,Jenny Thompson,12,5
+Swimming,Emma McKeon,11,6
+Swimming,Mark Spitz,11,7
+Swimming,Matt Biondi,11,8
+Swimming,Franziska van Almsick,10,9
+Swimming,Gary Hall, Jr.,10,10
+Table Tennis,Dimitrij Ovtcharov,6,1
+Table Tennis,Ma Long,5,2
+Table Tennis,Wang Hao,5,3
+Table Tennis,Wang Nan,5,4
+Table Tennis,Wang Liqin,4,5
+Table Tennis,Timo Boll,4,6
+Table Tennis,Yu Nam-Gyu,4,7
+Table Tennis,Zhang Jike,4,8
+Table Tennis,Zhang Yining,4,9
+Table Tennis,Mima Ito,4,10
+Taekwondo,Hadi Saei,3,1
+Taekwondo,Hwang Gyeong-Seon,3,2
+Taekwondo,María Espinoza,3,3
+Taekwondo,Steven Lopez,3,4
+Taekwondo,Wu Jingyu,2,5
+Taekwondo,Tijana Bogdanovic,2,6
+Taekwondo,Nur Tatar,2,7
+Taekwondo,Panipak Wongpattanakit,2,8
+Taekwondo,Pascal Gentil,2,9
+Taekwondo,Rohullah Nikpai,2,10
+Tennis,Kitty McKane,5,1
+Tennis,Venus Williams,5,2
+Tennis,Reggie Doherty,4,3
+Tennis,Serena Williams,4,4
+Tennis,Max Decugis,4,5
+Tennis,Laurie Doherty,4,6
+Tennis,Gunnar Setterwall,4,7
+Tennis,Harold Mahony,4,8
+Tennis,Arantxa Sánchez Vicario,4,9
+Tennis,Charles Dixon,4,10
+Trampolining,Dong Dong,4,1
+Trampolining,Karen Cockburn,3,2
+Trampolining,Lu Chunlong,2,3
+Trampolining,He Wenna,2,4
+Trampolining,Huang Shanshan,2,5
+Trampolining,Rosie MacLennan,2,6
+Trampolining,Aleksandr Moskalenko,2,7
+Trampolining,Bryony Page,2,8
+Trampolining,Dmitry Ushakov,1,9
+Trampolining,Anna Dogonadze,1,10
+Triathlon,Jonathan Brownlee,3,1
+Triathlon,Simon Whitfield,2,2
+Triathlon,Georgia Taylor-Brown,2,3
+Triathlon,Katie Zaferes,2,4
+Triathlon,Alex Yee,2,5
+Triathlon,Alistair Brownlee,2,6
+Triathlon,Bevan Docherty,2,7
+Triathlon,Brigitte McMahon,1,8
+Triathlon,Cassandre Beaugrand,1,9
+Triathlon,Dorian Coninx,1,10
+Tug-Of-War,Edwin Mills,3,1
+Tug-Of-War,Frederick Humphreys,3,2
+Tug-Of-War,James Shepherd,3,3
+Tug-Of-War,Gustaf Söderström,2,4
+Tug-Of-War,Eugen Schmidt,2,5
+Tug-Of-War,Edgar Aabye,2,6
+Tug-Of-War,August Nilsson,2,7
+Tug-Of-War,Charles Winckler,2,8
+Tug-Of-War,Karl Gustaf Staaf,2,9
+Tug-Of-War,Walter Chaffe,2,10
+Volleyball, Serginho,4,1
+Volleyball,Ana Ivis Fernández,4,2
+Volleyball,Inna Ryskal,4,3
+Volleyball,Samuele Papi,4,4
+Volleyball,Sergey Tetyukhin,4,5
+Volleyball,Regla Bell,3,6
+Volleyball,Regla Torres,3,7
+Volleyball,Marlenis Costa,3,8
+Volleyball,Mireya Luis,3,9
+Volleyball,Nina Smoleyeva,3,10
+Water Polo,Dezso Gyarmati,5,1
+Water Polo,Duško Pijetlovic,4,2
+Water Polo,Endre Molnár,4,3
+Water Polo,Filip Filipovic,4,4
+Water Polo,Andrija Prlainovic,4,5
+Water Polo,Brenda Villa,4,6
+Water Polo,András Bodnár,4,7
+Water Polo,György Kárpáti,4,8
+Water Polo,Heather Petri,4,9
+Water Polo,István Szívós, Jr.,4,10
+Weightlifting,Eko Yuli Irawan,4,1
+Weightlifting,Norb Schemansky,4,2
+Weightlifting,Pyrros Dimas,4,3
+Weightlifting,Ronny Weller,4,4
+Weightlifting,Raema Lisa Rumbewas,3,5
+Weightlifting,Pete George,3,6
+Weightlifting,Naim Süleymanoglu,3,7
+Weightlifting,Mohammad Nassiri,3,8
+Weightlifting,Nicu Vlad,3,9
+Weightlifting,Louis Hostin,3,10
+Wrestling,Wilfried Dietrich,5,1
+Wrestling,Saori Yoshida,4,2
+Wrestling,Rudolf Svensson,4,3
+Wrestling,Bruce Baumgartner,4,4
+Wrestling,Eino Leino,4,5
+Wrestling,Imre Polyák,4,6
+Wrestling,Kaori Icho,4,7
+Wrestling,Mariya Stadnik,4,8
+Wrestling,Mijaín López,4,9
+Wrestling,Aleksandr Karelin,4,10
