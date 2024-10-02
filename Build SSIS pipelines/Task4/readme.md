@@ -22,3 +22,4 @@ Create a data flow pipeline to generate a report summarizing the total number of
 
 ### Flat File Destination
 - **Function**: Save the summarized report as a CSV file.
+![alt text](../../imgs/Task4-flow.png)
